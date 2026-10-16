@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pet-feeder-v3';
+const CACHE_NAME = 'pet-feeder-v4';
 const urlsToCache = [
   '/',
   '/index.html'
